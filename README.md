@@ -1,7 +1,7 @@
 # Garuda-AMS
 
 <p align="center">
-  <img src="https://iili.io/d8Keirv.th.jpg" alt="GARUDA Logo" width="200" height="210">
+  <img src="https://iili.io/d80SBfV.md.png" alt="GARUDA Logo" width="200" height="210">
 </p>
 
 ## Overview
